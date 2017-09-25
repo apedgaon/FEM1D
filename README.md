@@ -1,4 +1,4 @@
-Code for 1D FEM
+1D Finite Element code which
 
 **********************************************
 Solves
@@ -7,6 +7,8 @@ Solves
   
   u(0) = 0         u'(3.1416) = -1
 **********************************************
+using 1D linear lagrange shape functions and two point gaussian integration
+
 Analytical Solution : u = sin(x)
 
 Instructions to run:
